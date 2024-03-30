@@ -1,0 +1,36 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat-abi-exporter": "^2.10.1",
+    "solhint": "^4.0.0"
+  },
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "flatten": "npx hardhat flatten",
+    "coverage": "npx hardhat coverage",
+    "solhint": "solhint src/**/*.sol"
+  },
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangpeili/nft-marketplace-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangpeili/nft-marketplace-contracts/issues"
+  },
+  "homepage": "https://github.com/liangpeili/nft-marketplace-contracts#readme"
+}
