@@ -11,3 +11,6 @@ AIGC可以帮我们设计宠物形象，触及一些人类没有的脑洞；可�
 未上链时玩家通过看激励广告获得游戏币，公司获得广告收RMB玩家购买游戏道具以及稀有货币——宝石普通玩家通过出售自己的卡牌，从其他玩家处获得宝石。合成消耗保证玩家有大量的卡牌需求，促进交易。玩家可以通过获取的宝石在专门的商城里面购买稀有道具，RMB玩家和免费玩家各取所需。
 在未来将产品打造成和宝可梦一样的知名IP，随着未来AIGC技术的迅猛发展，我们之后也可以推出更多的衍生和换代游戏作品，例如动画、3D的等等。
 玩家自己的宠物，可以以数字藏品的方式，为他自己独有，并且可以在不同的游戏作品中保值转移，开放内容制作平台，玩家可以参与新宠物模板的设计和模型训练，拓展AIGC题材空间，将宠物拓展到二次元等等，融入AI语言模型，玩家可以和自己的不同性格的宠物沟通聊天。
+DEMO link：http://slime-static.archlygame.com/meng/index.html
+
+project introduction video：【2024-ALCOVE-Hackathon-Shenzhen】 https://www.bilibili.com/video/BV17x4y1m7oW/?share_source=copy_web&vd_source=fc23228b870b3f2198c008c2a5ecfb7f
